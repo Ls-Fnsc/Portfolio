@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c293433a.css",
-    "main.js": "/Portfolio/static/js/main.f8baa388.js",
+    "main.css": "/Portfolio/static/css/main.f26b1582.css",
+    "main.js": "/Portfolio/static/js/main.91fb3b14.js",
     "static/media/profile_picture.png": "/Portfolio/static/media/profile_picture.030c88788b48310ebadc.png",
-    "static/media/kickstarter_android.png": "/Portfolio/static/media/kickstarter_android.128b17b2fbb7045d2538.png",
     "static/media/appium_intellij.png": "/Portfolio/static/media/appium_intellij.36161cf867f29ceacd7a.png",
     "static/media/test_case_qase.png": "/Portfolio/static/media/test_case_qase.9e13fcb57916bc33fc8f.png",
     "static/media/confluence_logo.png": "/Portfolio/static/media/confluence_logo.f360a548223695480459.png",
@@ -18,11 +17,11 @@
     "static/media/browserstack_logo.png": "/Portfolio/static/media/browserstack_logo.c9880018737764c7def5.png",
     "static/media/appium_logo.png": "/Portfolio/static/media/appium_logo.32deb33129a5219c7c3c.png",
     "index.html": "/Portfolio/index.html",
-    "main.c293433a.css.map": "/Portfolio/static/css/main.c293433a.css.map",
-    "main.f8baa388.js.map": "/Portfolio/static/js/main.f8baa388.js.map"
+    "main.f26b1582.css.map": "/Portfolio/static/css/main.f26b1582.css.map",
+    "main.91fb3b14.js.map": "/Portfolio/static/js/main.91fb3b14.js.map"
   },
   "entrypoints": [
-    "static/css/main.c293433a.css",
-    "static/js/main.f8baa388.js"
+    "static/css/main.f26b1582.css",
+    "static/js/main.91fb3b14.js"
   ]
 }
