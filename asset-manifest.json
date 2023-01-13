@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.f26b1582.css",
-    "main.js": "/Portfolio/static/js/main.91fb3b14.js",
+    "main.css": "/Portfolio/static/css/main.57603eed.css",
+    "main.js": "/Portfolio/static/js/main.3ca8e897.js",
+    "static/media/jira_bug1_2.png": "/Portfolio/static/media/jira_bug1_2.1c317e89b1dc21023b98.png",
     "static/media/profile_picture.png": "/Portfolio/static/media/profile_picture.030c88788b48310ebadc.png",
+    "static/media/jira_bug1_1.png": "/Portfolio/static/media/jira_bug1_1.d8076b0dde6e03da256b.png",
     "static/media/appium_intellij.png": "/Portfolio/static/media/appium_intellij.36161cf867f29ceacd7a.png",
     "static/media/test_case_qase.png": "/Portfolio/static/media/test_case_qase.9e13fcb57916bc33fc8f.png",
     "static/media/confluence_logo.png": "/Portfolio/static/media/confluence_logo.f360a548223695480459.png",
@@ -17,11 +19,11 @@
     "static/media/browserstack_logo.png": "/Portfolio/static/media/browserstack_logo.c9880018737764c7def5.png",
     "static/media/appium_logo.png": "/Portfolio/static/media/appium_logo.32deb33129a5219c7c3c.png",
     "index.html": "/Portfolio/index.html",
-    "main.f26b1582.css.map": "/Portfolio/static/css/main.f26b1582.css.map",
-    "main.91fb3b14.js.map": "/Portfolio/static/js/main.91fb3b14.js.map"
+    "main.57603eed.css.map": "/Portfolio/static/css/main.57603eed.css.map",
+    "main.3ca8e897.js.map": "/Portfolio/static/js/main.3ca8e897.js.map"
   },
   "entrypoints": [
-    "static/css/main.f26b1582.css",
-    "static/js/main.91fb3b14.js"
+    "static/css/main.57603eed.css",
+    "static/js/main.3ca8e897.js"
   ]
 }
