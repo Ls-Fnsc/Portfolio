@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.57603eed.css",
-    "main.js": "/Portfolio/static/js/main.3ca8e897.js",
+    "main.css": "/Portfolio/static/css/main.537563f6.css",
+    "main.js": "/Portfolio/static/js/main.5b562f27.js",
     "static/media/jira_bug1_2.png": "/Portfolio/static/media/jira_bug1_2.1c317e89b1dc21023b98.png",
     "static/media/profile_picture.png": "/Portfolio/static/media/profile_picture.030c88788b48310ebadc.png",
     "static/media/jira_bug1_1.png": "/Portfolio/static/media/jira_bug1_1.d8076b0dde6e03da256b.png",
@@ -19,11 +19,11 @@
     "static/media/browserstack_logo.png": "/Portfolio/static/media/browserstack_logo.c9880018737764c7def5.png",
     "static/media/appium_logo.png": "/Portfolio/static/media/appium_logo.32deb33129a5219c7c3c.png",
     "index.html": "/Portfolio/index.html",
-    "main.57603eed.css.map": "/Portfolio/static/css/main.57603eed.css.map",
-    "main.3ca8e897.js.map": "/Portfolio/static/js/main.3ca8e897.js.map"
+    "main.537563f6.css.map": "/Portfolio/static/css/main.537563f6.css.map",
+    "main.5b562f27.js.map": "/Portfolio/static/js/main.5b562f27.js.map"
   },
   "entrypoints": [
-    "static/css/main.57603eed.css",
-    "static/js/main.3ca8e897.js"
+    "static/css/main.537563f6.css",
+    "static/js/main.5b562f27.js"
   ]
 }
